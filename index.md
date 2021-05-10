@@ -65,7 +65,7 @@
 
   <script>
     (async () => {
-      const response = await fetch('https://api.github.com/repos/release-info/', {
+      const response = await fetch('https://api.github.com/repos/Silver-Eel-Technology/release-tracker/contents/release-info/', {
         headers: {
           'Authorization': 'token <token>'
         }
