@@ -3,9 +3,9 @@
     {
       "env": "qa",
       "variation": "silvereel",
-      "release_name": "release-30d",
-      "release_notes_path": "https://silvereel.atlassian.net/wiki/spaces/CA/pages/891093327/SET+Sprint+16+Release+Notes",
-      "released_at": "09/05/2021 23:40:13"
+      "release_name": "release-21e",
+      "release_notes_path": "https://silvereel.atlassian.net/wiki/spaces/CA/pages/956858578/SET+Sprint+17+Release+Notes",
+      "released_at": "13/05/2021 14:06:43"
     }
   ]
 }
