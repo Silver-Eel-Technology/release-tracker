@@ -6,6 +6,13 @@
       "release_name": "release-21e.02",
       "release_notes_path": "https://silvereel.atlassian.net/wiki/spaces/CA/pages/956858578/SET+Sprint+17+Release+Notes",
       "released_at": "18/05/2021 00:36:06"
+    },
+    {
+      "env": "uat",
+      "variation": "silvereel",
+      "release_name": "release-21e.02",
+      "release_notes_path": "https://silvereel.atlassian.net/wiki/spaces/CA/pages/956858578/SET+Sprint+17+Release+Notes",
+      "released_at": "18/05/2021 02:58:07"
     }
   ]
 }
