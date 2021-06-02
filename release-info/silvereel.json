@@ -13,6 +13,13 @@
       "release_name": "release-21e.03",
       "release_notes_path": "https://silvereel.atlassian.net/wiki/spaces/CA/pages/956858578/SET+Sprint+17+Release+Notes",
       "released_at": "18/05/2021 20:11:10"
+    },
+    {
+      "env": "dev",
+      "variation": "silvereel",
+      "release_name": "release-test",
+      "release_notes_path": "https://github.com/Silver-Eel-Technology/silvereel-terraform/tree/master/releases-notes/release-test.md",
+      "released_at": "02/06/2021 02:18:00"
     }
   ]
 }
