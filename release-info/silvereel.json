@@ -2,17 +2,17 @@
   "releases": [
     {
       "release_name": "release-1.1.4",
-      "env": "qa",
       "released_at": "28/06/2021 07:33:59",
       "variation": "silvereel",
-      "release_notes_path": "https://github.com/Silver-Eel-Technology/silvereel-terraform/tree/master/releases-notes/release-1.1.4.md"
+      "release_notes_path": "https://github.com/Silver-Eel-Technology/silvereel-terraform/tree/master/releases-notes/release-1.1.4.md",
+      "env": "qa"
     },
     {
-      "release_name": "release-21e.03",
-      "env": "uat",
-      "released_at": "18/05/2021 20:11:10",
+      "release_name": "release-1.1.4",
+      "released_at": "28/06/2021 09:03:46",
       "variation": "silvereel",
-      "release_notes_path": "https://silvereel.atlassian.net/wiki/spaces/CA/pages/956858578/SET+Sprint+17+Release+Notes"
+      "release_notes_path": "https://github.com/Silver-Eel-Technology/silvereel-terraform/tree/master/releases-notes/release-1.1.4.md",
+      "env": "uat"
     }
   ]
 }
