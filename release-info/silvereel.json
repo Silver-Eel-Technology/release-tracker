@@ -1,25 +1,25 @@
 {
   "releases": [
     {
-      "release_name": "release-1.1.21",
-      "released_at": "27/07/2021 11:02:56",
-      "release_notes_path": "https://github.com/Silver-Eel-Technology/silvereel-terraform/tree/master/releases-notes/release-1.1.21.md",
-      "env": "qa",
-      "variation": "silvereel"
+      "released_at": "27/07/2021 13:25:54",
+      "variation": "silvereel",
+      "release_name": "release-1.1.22",
+      "release_notes_path": "https://github.com/Silver-Eel-Technology/silvereel-terraform/tree/master/releases-notes/release-1.1.22.md",
+      "env": "qa"
     },
     {
-      "release_name": "release-1.1.21",
       "released_at": "27/07/2021 11:26:20",
+      "variation": "silvereel",
+      "release_name": "release-1.1.21",
       "release_notes_path": "https://github.com/Silver-Eel-Technology/silvereel-terraform/tree/master/releases-notes/release-1.1.21.md",
-      "env": "uat",
-      "variation": "silvereel"
+      "env": "uat"
     },
     {
-      "release_name": "release-1.1.13",
       "released_at": "07/07/2021 09:16:34",
+      "variation": "silvereel",
+      "release_name": "release-1.1.13",
       "release_notes_path": "https://github.com/Silver-Eel-Technology/silvereel-terraform/tree/master/releases-notes/release-1.1.13.md",
-      "env": "prod",
-      "variation": "silvereel"
+      "env": "prod"
     }
   ]
 }
