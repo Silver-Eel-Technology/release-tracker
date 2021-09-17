@@ -9,10 +9,10 @@
     },
     {
       "variation": "silvereel",
-      "release_notes_path": "https://github.com/Silver-Eel-Technology/silvereel-terraform/tree/master/releases-notes/release-1.1.29.md",
-      "released_at": "13/09/2021 09:20:39",
+      "release_notes_path": "https://github.com/Silver-Eel-Technology/silvereel-terraform/tree/master/releases-notes/hotfix-release-1.1.29.md",
+      "released_at": "16/09/2021 23:35:21",
       "env": "uat",
-      "release_name": "release-1.1.29"
+      "release_name": "hotfix-release-1.1.29"
     },
     {
       "variation": "silvereel",
