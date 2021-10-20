@@ -1,25 +1,32 @@
 {
   "releases": [
     {
-      "variation": "silvereel",
       "env": "qa",
+      "variation": "silvereel",
       "release_name": "release-1.1.39",
-      "released_at": "12/10/2021 09:39:47",
-      "release_notes_path": "https://github.com/Silver-Eel-Technology/silvereel-terraform/tree/master/releases-notes/release-1.1.39.md"
+      "release_notes_path": "https://github.com/Silver-Eel-Technology/silvereel-terraform/tree/master/releases-notes/release-1.1.39.md",
+      "released_at": "12/10/2021 09:39:47"
     },
     {
-      "variation": "silvereel",
       "env": "uat",
+      "variation": "silvereel",
       "release_name": "release-1.1.36",
-      "released_at": "27/09/2021 15:09:00",
-      "release_notes_path": "https://github.com/Silver-Eel-Technology/silvereel-terraform/tree/master/releases-notes/release-1.1.36.md"
+      "release_notes_path": "https://github.com/Silver-Eel-Technology/silvereel-terraform/tree/master/releases-notes/release-1.1.36.md",
+      "released_at": "27/09/2021 15:09:00"
     },
     {
-      "variation": "silvereel",
       "env": "prod",
+      "variation": "silvereel",
       "release_name": "release-1.1.23",
-      "released_at": "06/08/2021 06:01:35",
-      "release_notes_path": "https://github.com/Silver-Eel-Technology/silvereel-terraform/tree/master/releases-notes/release-1.1.23.md"
+      "release_notes_path": "https://github.com/Silver-Eel-Technology/silvereel-terraform/tree/master/releases-notes/release-1.1.23.md",
+      "released_at": "06/08/2021 06:01:35"
+    },
+    {
+      "env": "qa2",
+      "variation": "silvereel",
+      "release_name": "qa2-release-0.0.1",
+      "release_notes_path": "https://github.com/Silver-Eel-Technology/silvereel-terraform/tree/master/releases-notes/qa2-release-0.0.1.md",
+      "released_at": "20/10/2021 12:53:03"
     }
   ]
 }
