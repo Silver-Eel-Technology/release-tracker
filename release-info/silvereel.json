@@ -1,32 +1,32 @@
 {
   "releases": [
     {
-      "variation": "silvereel",
-      "env": "qa",
-      "release_notes_path": "https://github.com/Silver-Eel-Technology/silvereel-terraform/tree/master/releases-notes/release-1.1.40.md",
       "released_at": "22/10/2021 11:24:50",
-      "release_name": "release-1.1.40"
+      "release_notes_path": "https://github.com/Silver-Eel-Technology/silvereel-terraform/tree/master/releases-notes/release-1.1.40.md",
+      "variation": "silvereel",
+      "release_name": "release-1.1.40",
+      "env": "qa"
     },
     {
-      "variation": "silvereel",
-      "env": "uat",
-      "release_notes_path": "https://github.com/Silver-Eel-Technology/silvereel-terraform/tree/master/releases-notes/release-1.1.36.md",
       "released_at": "27/09/2021 15:09:00",
-      "release_name": "release-1.1.36"
+      "release_notes_path": "https://github.com/Silver-Eel-Technology/silvereel-terraform/tree/master/releases-notes/release-1.1.36.md",
+      "variation": "silvereel",
+      "release_name": "release-1.1.36",
+      "env": "uat"
     },
     {
-      "variation": "silvereel",
-      "env": "prod",
-      "release_notes_path": "https://github.com/Silver-Eel-Technology/silvereel-terraform/tree/master/releases-notes/release-1.1.23.md",
       "released_at": "06/08/2021 06:01:35",
-      "release_name": "release-1.1.23"
+      "release_notes_path": "https://github.com/Silver-Eel-Technology/silvereel-terraform/tree/master/releases-notes/release-1.1.23.md",
+      "variation": "silvereel",
+      "release_name": "release-1.1.23",
+      "env": "prod"
     },
     {
+      "released_at": "22/10/2021 11:50:41",
+      "release_notes_path": "https://github.com/Silver-Eel-Technology/silvereel-terraform/tree/master/releases-notes/release-1.1.40.md",
       "variation": "silvereel",
-      "env": "qa2",
-      "release_notes_path": "https://github.com/Silver-Eel-Technology/silvereel-terraform/tree/master/releases-notes/qa2-release-0.0.1.md",
-      "released_at": "20/10/2021 12:53:03",
-      "release_name": "qa2-release-0.0.1"
+      "release_name": "release-1.1.40",
+      "env": "qa2"
     }
   ]
 }
