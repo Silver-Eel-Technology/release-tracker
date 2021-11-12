@@ -1,32 +1,32 @@
 {
   "releases": [
     {
-      "release_notes_path": "https://github.com/Silver-Eel-Technology/silvereel-terraform/tree/master/releases-notes/release-1.1.43.md",
       "released_at": "12/11/2021 07:15:16",
-      "release_name": "release-1.1.43",
+      "variation": "silvereel",
+      "release_notes_path": "https://github.com/Silver-Eel-Technology/silvereel-terraform/tree/master/releases-notes/release-1.1.43.md",
       "env": "qa",
-      "variation": "silvereel"
+      "release_name": "release-1.1.43"
     },
     {
-      "release_notes_path": "https://github.com/Silver-Eel-Technology/silvereel-terraform/tree/master/releases-notes/release-1.1.36.md",
       "released_at": "27/09/2021 15:09:00",
-      "release_name": "release-1.1.36",
+      "variation": "silvereel",
+      "release_notes_path": "https://github.com/Silver-Eel-Technology/silvereel-terraform/tree/master/releases-notes/release-1.1.36.md",
       "env": "uat",
-      "variation": "silvereel"
+      "release_name": "release-1.1.36"
     },
     {
-      "release_notes_path": "https://github.com/Silver-Eel-Technology/silvereel-terraform/tree/master/releases-notes/release-1.1.23.md",
       "released_at": "06/08/2021 06:01:35",
-      "release_name": "release-1.1.23",
+      "variation": "silvereel",
+      "release_notes_path": "https://github.com/Silver-Eel-Technology/silvereel-terraform/tree/master/releases-notes/release-1.1.23.md",
       "env": "prod",
-      "variation": "silvereel"
+      "release_name": "release-1.1.23"
     },
     {
-      "release_notes_path": "https://github.com/Silver-Eel-Technology/silvereel-terraform/tree/master/releases-notes/release-1.1.42.md",
-      "released_at": "03/11/2021 05:47:56",
-      "release_name": "release-1.1.42",
+      "released_at": "12/11/2021 07:39:26",
+      "variation": "silvereel",
+      "release_notes_path": "https://github.com/Silver-Eel-Technology/silvereel-terraform/tree/master/releases-notes/release-1.1.43.md",
       "env": "qa2",
-      "variation": "silvereel"
+      "release_name": "release-1.1.43"
     }
   ]
 }
