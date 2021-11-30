@@ -1,32 +1,32 @@
 {
   "releases": [
     {
+      "released_at": "19/11/2021 07:54:51",
       "variation": "silvereel",
       "release_name": "release-1.1.44",
-      "env": "qa",
-      "released_at": "19/11/2021 07:54:51",
-      "release_notes_path": "https://github.com/Silver-Eel-Technology/silvereel-terraform/tree/master/releases-notes/release-1.1.44.md"
+      "release_notes_path": "https://github.com/Silver-Eel-Technology/silvereel-terraform/tree/master/releases-notes/release-1.1.44.md",
+      "env": "qa"
     },
     {
+      "released_at": "29/11/2021 08:18:59",
       "variation": "silvereel",
       "release_name": "release-1.1.43",
-      "env": "uat",
-      "released_at": "29/11/2021 08:18:59",
-      "release_notes_path": "https://github.com/Silver-Eel-Technology/silvereel-terraform/tree/master/releases-notes/release-1.1.43.md"
+      "release_notes_path": "https://github.com/Silver-Eel-Technology/silvereel-terraform/tree/master/releases-notes/release-1.1.43.md",
+      "env": "uat"
     },
     {
+      "released_at": "19/11/2021 05:57:30",
       "variation": "silvereel",
       "release_name": "hotfix-release-1.1.23",
-      "env": "prod",
-      "released_at": "19/11/2021 05:57:30",
-      "release_notes_path": "https://github.com/Silver-Eel-Technology/silvereel-terraform/tree/master/releases-notes/hotfix-release-1.1.23.md"
+      "release_notes_path": "https://github.com/Silver-Eel-Technology/silvereel-terraform/tree/master/releases-notes/hotfix-release-1.1.23.md",
+      "env": "prod"
     },
     {
+      "released_at": "30/11/2021 05:18:44",
       "variation": "silvereel",
-      "release_name": "release-1.1.44",
-      "env": "qa2",
-      "released_at": "19/11/2021 08:07:53",
-      "release_notes_path": "https://github.com/Silver-Eel-Technology/silvereel-terraform/tree/master/releases-notes/release-1.1.44.md"
+      "release_name": "release-1.1.44.temp",
+      "release_notes_path": "https://github.com/Silver-Eel-Technology/silvereel-terraform/tree/master/releases-notes/release-1.1.44.temp.md",
+      "env": "qa2"
     }
   ]
 }
