@@ -2,31 +2,31 @@
   "releases": [
     {
       "variation": "silvereel",
+      "release_name": "release-1.5.0",
       "release_notes_path": "https://github.com/Silver-Eel-Technology/silvereel-terraform/tree/master/releases-notes/release-1.5.0.md",
-      "env": "qa",
       "released_at": "11/02/2022 11:42:49",
-      "release_name": "release-1.5.0"
+      "env": "qa"
     },
     {
       "variation": "silvereel",
+      "release_name": "release-1.5.1",
       "release_notes_path": "https://github.com/Silver-Eel-Technology/silvereel-terraform/tree/master/releases-notes/release-1.5.1.md",
-      "env": "uat",
       "released_at": "22/02/2022 08:12:59",
-      "release_name": "release-1.5.1"
+      "env": "uat"
     },
     {
       "variation": "silvereel",
-      "release_notes_path": "https://github.com/Silver-Eel-Technology/silvereel-terraform/tree/master/releases-notes/release-1.4.0.md",
-      "env": "prod",
-      "released_at": "10/02/2022 05:50:48",
-      "release_name": "release-1.4.0"
-    },
-    {
-      "variation": "silvereel",
+      "release_name": "release-1.5.1",
       "release_notes_path": "https://github.com/Silver-Eel-Technology/silvereel-terraform/tree/master/releases-notes/release-1.5.1.md",
-      "env": "qa2",
+      "released_at": "23/02/2022 10:17:02",
+      "env": "prod"
+    },
+    {
+      "variation": "silvereel",
+      "release_name": "release-1.5.1",
+      "release_notes_path": "https://github.com/Silver-Eel-Technology/silvereel-terraform/tree/master/releases-notes/release-1.5.1.md",
       "released_at": "22/02/2022 07:26:13",
-      "release_name": "release-1.5.1"
+      "env": "qa2"
     }
   ]
 }
