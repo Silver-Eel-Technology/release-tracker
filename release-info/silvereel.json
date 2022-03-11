@@ -1,32 +1,32 @@
 {
   "releases": [
     {
-      "variation": "silvereel",
-      "release_notes_path": "https://github.com/Silver-Eel-Technology/silvereel-terraform/tree/master/releases-notes/release-1.5.0.md",
       "release_name": "release-1.5.0",
+      "variation": "silvereel",
+      "env": "qa",
       "released_at": "11/02/2022 11:42:49",
-      "env": "qa"
+      "release_notes_path": "https://github.com/Silver-Eel-Technology/silvereel-terraform/tree/master/releases-notes/release-1.5.0.md"
     },
     {
-      "variation": "silvereel",
-      "release_notes_path": "https://github.com/Silver-Eel-Technology/silvereel-terraform/tree/master/releases-notes/hotfix-release-1.5.2.md",
       "release_name": "hotfix-release-1.5.2",
+      "variation": "silvereel",
+      "env": "uat",
       "released_at": "01/03/2022 07:53:54",
-      "env": "uat"
+      "release_notes_path": "https://github.com/Silver-Eel-Technology/silvereel-terraform/tree/master/releases-notes/hotfix-release-1.5.2.md"
     },
     {
-      "variation": "silvereel",
-      "release_notes_path": "https://github.com/Silver-Eel-Technology/silvereel-terraform/tree/master/releases-notes/hotfix-release-1.5.2.md",
       "release_name": "hotfix-release-1.5.2",
+      "variation": "silvereel",
+      "env": "prod",
       "released_at": "01/03/2022 08:11:43",
-      "env": "prod"
+      "release_notes_path": "https://github.com/Silver-Eel-Technology/silvereel-terraform/tree/master/releases-notes/hotfix-release-1.5.2.md"
     },
     {
+      "release_name": "release-1.8.0",
       "variation": "silvereel",
-      "release_notes_path": "https://github.com/Silver-Eel-Technology/silvereel-terraform/tree/master/releases-notes/release-1.7.0.md",
-      "release_name": "release-1.7.0",
-      "released_at": "04/03/2022 08:22:57",
-      "env": "qa2"
+      "env": "qa2",
+      "released_at": "11/03/2022 07:52:19",
+      "release_notes_path": "https://github.com/Silver-Eel-Technology/silvereel-terraform/tree/master/releases-notes/release-1.8.0.md"
     }
   ]
 }
