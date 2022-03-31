@@ -1,32 +1,32 @@
 {
   "releases": [
     {
-      "variation": "silvereel",
       "env": "qa",
-      "release_notes_path": "https://github.com/Silver-Eel-Technology/silvereel-terraform/tree/master/releases-notes/release-1.5.0.md",
+      "release_name": "release-1.5.0",
       "released_at": "11/02/2022 11:42:49",
-      "release_name": "release-1.5.0"
+      "release_notes_path": "https://github.com/Silver-Eel-Technology/silvereel-terraform/tree/master/releases-notes/release-1.5.0.md",
+      "variation": "silvereel"
     },
     {
-      "variation": "silvereel",
       "env": "uat",
-      "release_notes_path": "https://github.com/Silver-Eel-Technology/silvereel-terraform/tree/master/releases-notes/release-1.10.2.md",
+      "release_name": "release-1.10.2",
       "released_at": "24/03/2022 06:09:30",
-      "release_name": "release-1.10.2"
+      "release_notes_path": "https://github.com/Silver-Eel-Technology/silvereel-terraform/tree/master/releases-notes/release-1.10.2.md",
+      "variation": "silvereel"
     },
     {
-      "variation": "silvereel",
       "env": "prod",
-      "release_notes_path": "https://github.com/Silver-Eel-Technology/silvereel-terraform/tree/master/releases-notes/hotfix-release-1.5.3.md",
+      "release_name": "hotfix-release-1.5.3",
       "released_at": "25/03/2022 05:47:39",
-      "release_name": "hotfix-release-1.5.3"
+      "release_notes_path": "https://github.com/Silver-Eel-Technology/silvereel-terraform/tree/master/releases-notes/hotfix-release-1.5.3.md",
+      "variation": "silvereel"
     },
     {
-      "variation": "silvereel",
       "env": "qa2",
-      "release_notes_path": "https://github.com/Silver-Eel-Technology/silvereel-terraform/tree/master/releases-notes/release-1.11.0.md",
-      "released_at": "25/03/2022 06:14:13",
-      "release_name": "release-1.11.0"
+      "release_name": "release-1.11.1",
+      "released_at": "31/03/2022 08:47:19",
+      "release_notes_path": "https://github.com/Silver-Eel-Technology/silvereel-terraform/tree/master/releases-notes/release-1.11.1.md",
+      "variation": "silvereel"
     }
   ]
 }
