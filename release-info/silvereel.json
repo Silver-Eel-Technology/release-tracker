@@ -1,32 +1,32 @@
 {
   "releases": [
     {
-      "variation": "silvereel",
+      "release_name": "release-1.5.0",
+      "release_notes_path": "https://github.com/Silver-Eel-Technology/silvereel-terraform/tree/master/releases-notes/release-1.5.0.md",
       "released_at": "11/02/2022 11:42:49",
       "env": "qa",
-      "release_notes_path": "https://github.com/Silver-Eel-Technology/silvereel-terraform/tree/master/releases-notes/release-1.5.0.md",
-      "release_name": "release-1.5.0"
+      "variation": "silvereel"
     },
     {
-      "variation": "silvereel",
+      "release_name": "release-1.11.2",
+      "release_notes_path": "https://github.com/Silver-Eel-Technology/silvereel-terraform/tree/master/releases-notes/release-1.11.2.md",
       "released_at": "06/04/2022 07:26:49",
       "env": "uat",
-      "release_notes_path": "https://github.com/Silver-Eel-Technology/silvereel-terraform/tree/master/releases-notes/release-1.11.2.md",
-      "release_name": "release-1.11.2"
+      "variation": "silvereel"
     },
     {
-      "variation": "silvereel",
+      "release_name": "release-1.11.2",
+      "release_notes_path": "https://github.com/Silver-Eel-Technology/silvereel-terraform/tree/master/releases-notes/release-1.11.2.md",
       "released_at": "08/04/2022 08:42:06",
       "env": "prod",
-      "release_notes_path": "https://github.com/Silver-Eel-Technology/silvereel-terraform/tree/master/releases-notes/release-1.11.2.md",
-      "release_name": "release-1.11.2"
+      "variation": "silvereel"
     },
     {
-      "variation": "silvereel",
-      "released_at": "08/04/2022 11:09:03",
+      "release_name": "release-1.12.1",
+      "release_notes_path": "https://github.com/Silver-Eel-Technology/silvereel-terraform/tree/master/releases-notes/release-1.12.1.md",
+      "released_at": "12/04/2022 07:58:29",
       "env": "qa2",
-      "release_notes_path": "https://github.com/Silver-Eel-Technology/silvereel-terraform/tree/master/releases-notes/release-1.12.0.md",
-      "release_name": "release-1.12.0"
+      "variation": "silvereel"
     }
   ]
 }
