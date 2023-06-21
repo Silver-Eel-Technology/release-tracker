@@ -15,11 +15,11 @@
       "released_at": "21/06/2023 08:57:47"
     },
     {
-      "release_notes_path": "https://github.com/Silver-Eel-Technology/silvereel-terraform/tree/master/releases-notes/release-1.49.6.md",
-      "release_name": "release-1.49.6",
+      "release_notes_path": "https://github.com/Silver-Eel-Technology/silvereel-terraform/tree/master/releases-notes/release-1.49.7.md",
+      "release_name": "release-1.49.7",
       "variation": "silvereel",
       "env": "prod",
-      "released_at": "20/06/2023 12:51:28"
+      "released_at": "21/06/2023 09:18:53"
     },
     {
       "release_notes_path": "https://github.com/Silver-Eel-Technology/silvereel-terraform/tree/master/releases-notes/release-1.49.7.md",
